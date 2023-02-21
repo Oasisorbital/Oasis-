@@ -1,11 +1,11 @@
 <template>
 <div>
-  <div class="hero min-h-screen" :style="{ backgroundImage: 'url(' + require('@/assets/logo.png') + ')' }">
+  <div class="hero min-h-screen" :style="{ backgroundImage: 'url(' + require('@/assets/300.jpg') + ')' }">
     <div class="hero-overlay bg-opacity-60"></div>
     <div class="hero-content text-center text-primary-content">
       <div class="max-w-xl p-4 lg:p-0">
         <img src="@/assets/logo12.png">
-        <p class="pt-10 pb-4 font-semibold text-lg  font-mono ">Take your brand out of this world!</p>
+        <p class="pt-10 pb-4 font-semibold text-lg  font-mono ">Take your brand out of this world and to the stratosfare</p>
         <p class="pb-10 font-semibold text-lg  font-mono ">Stand out above the rest by launching your product to the edge of space</p>
 
         
