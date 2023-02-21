@@ -1,6 +1,6 @@
 <template>
 <div>
-  <div class="hero min-h-screen" :style="{ backgroundImage: 'url(' + require('@/assets/300.jpg') + ')' }">
+  <div class="hero min-h-screen" :style="{ backgroundImage: 'url(' + require('@/assets/logo.png') + ')' }">
     <div class="hero-overlay bg-opacity-60"></div>
     <div class="hero-content text-center text-primary-content">
       <div class="max-w-xl p-4 lg:p-0">
