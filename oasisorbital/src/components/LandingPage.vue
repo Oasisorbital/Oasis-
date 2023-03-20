@@ -5,8 +5,8 @@
     <div class="hero-content text-center text-primary-content">
       <div class="max-w-xl p-4 lg:p-0">
         <img src="@/assets/logo12.png">
-        <p class="pt-10 pb-4 font-semibold text-lg  font-mono ">Take your brand out of this world and to the stratosfare</p>
-        <p class="pb-10 font-semibold text-lg  font-mono ">Stand out above the rest by launching your product to the edge of space</p>
+        <p class="pt-10 pb-4 font-semibold text-lg  font-mono ">Inspired by the spirit of exploration</p>
+        <p class="pb-10 font-semibold text-lg  font-mono ">light pollution, clud cover and the increasing number of satellites in orbit make observing the stars challenging. We're developing remotely operated orbital telescops for </p>
 
         
         <!-- The button to open modal -->
